@@ -135,7 +135,7 @@ fun TataletakBoxColumnRow(modifier: Modifier) {
             contentDescription = null,
             contentScale = ContentScale.Fit)
         Text(text = "Kucingkuu",
-            fontSize = 50.sp,
+            fontSize = 60.sp,
             color = Color.Blue,
             fontWeight = FontWeight.Bold,
             fontFamily = FontFamily.Cursive,
